@@ -5,7 +5,7 @@
     <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PHP Background Color Example</title>
+    <title>Album</title>
     <style>
         body {
             background-image: url(../img/t3.jpg); 
@@ -114,7 +114,7 @@
         }
 
         .play-element:hover {
-            background-color: #ffff; /* Change background color on hover */
+            background-color: #ffff; 
         }
 		footer {
             background-color: #800000;
@@ -246,7 +246,7 @@
 
 
 
-            // Greeting echo
+            
             echo "<p style='font-size: 24px; font-weight: bold;'>Free Lyrics</p>";
         ?>
         <footer>

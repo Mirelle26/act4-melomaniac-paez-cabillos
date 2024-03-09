@@ -14,7 +14,7 @@
             background-attachment: fixed;
             margin: 3;
             margin-right: 0;
-            padding: 3px;
+            padding: 2px;
             font-family: Merriweather;
             color: white; 
             font-size: 23px;

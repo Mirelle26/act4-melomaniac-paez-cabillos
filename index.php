@@ -14,21 +14,21 @@
             background-attachment: fixed;
             margin: 0;
             padding: 0;
-            font-family: Lobster; /* Use Georgia as the default font */
+            font-family: Lobster; 
             text-align: center;
         }
 
         h1 {
             font-size: 12.5em;
-            color: #800000; /* Set your title color */
-			text-shadow: 15px 9px 5px white; /* Add white shadow with offset and blur */
+            color: #800000;
+			text-shadow: 15px 9px 5px white; 
         
         }
 		h2 {
             font-size: 3.125em;
-            color: #800000; /* Set your h2 color */
-			text-shadow: 6px 6px 3px white; /* Add white shadow with offset and blur */
-            margin-left: 250px; /* Adjust the margin as needed */
+            color: #800000; 
+			text-shadow: 6px 6px 3px white; 
+            margin-left: 250px; 
 			margin-top: -170px;
         }
 	    h3 {

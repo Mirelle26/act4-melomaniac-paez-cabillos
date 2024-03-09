@@ -126,6 +126,8 @@
             bottom: 0;
             width: 100%;
 			height: 5%;
+            right: 0;
+            left: 0;
         }
 
         footer img {
@@ -233,9 +235,10 @@
             // Greeting echo
             echo "<p style='font-size: 24px; font-weight: bold;'>Free Lyrics</p>";
         ?>
- <footer>
+                <footer>
     <img src="../img/md.png" alt="logo"> MUSICAL DELIGHT
 </footer>
+
     
     </div>
 </body>

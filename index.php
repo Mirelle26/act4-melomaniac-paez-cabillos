@@ -41,7 +41,7 @@
             padding: 0px;
 			font-size: 20px;
             position: fixed;
-            top: 60;
+            top: 59;
 			left: 35%;
             width: 30%;
 			height: 5%; 

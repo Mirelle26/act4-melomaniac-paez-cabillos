@@ -114,7 +114,7 @@
         }
 
         .play-element:hover {
-            background-color: #ffff; /* Change background color on hover */
+            background-color: #ffff;
         }
 		footer {
             background-color: #800000;
@@ -232,7 +232,7 @@
             echo "<p>Doro[D]thea[A]</p><br><br>";
 
 
-            // Greeting echo
+           
             echo "<p style='font-size: 24px; font-weight: bold;'>Free Lyrics</p>";
         ?>
                 <footer>

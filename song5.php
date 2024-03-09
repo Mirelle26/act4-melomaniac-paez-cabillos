@@ -114,7 +114,7 @@
         }
 
         .play-element:hover {
-            background-color: #800000; /* Change background color on hover */
+            background-color: #800000;
         }
 		footer {
             background-color: #800000;
@@ -237,7 +237,7 @@
             echo "<p>Making you my [D]centerfold</p><br><br>";
 
 
-            // Greeting echo
+            
             echo "<p style='font-size: 24px; font-weight: bold;'>Free Lyrics</p>";
         ?>
                 <footer>
